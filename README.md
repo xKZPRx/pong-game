@@ -9,7 +9,8 @@ A classic Pong remake built with Python and Pygame. Challenge a friend or test y
 - Pause timer between rounds for better gameplay flow  
 - Score display and end-game results screen  
 - Customizable settings accessible via options menu  
-- Simple and responsive UI with mouse and keyboard controls  
+- Simple and responsive UI with mouse and keyboard controls
+- Bounce and scoring sounds
 
 ## Installation
 
