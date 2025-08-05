@@ -19,6 +19,11 @@ A classic Pong remake built with Python and Pygame. Challenge a friend or test y
    ```bash
    pip install pygame
    ```
+3. Clone or download this repository
+4. Run the game:
+   ``` bash
+   python main.py
+   ```
 
 ## Preview
 <img width="1121" height="742" alt="menu" src="https://github.com/user-attachments/assets/49bf2a78-4ca8-4bad-a039-a42fd4826a35" />
